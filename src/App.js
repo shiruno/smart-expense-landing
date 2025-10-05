@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
 import { ArrowRight, BarChart3, Bot, Wallet, Send } from "lucide-react";
-import expenseTracker from "./components/expenseTracker";
+import expenseTracker from "./components/expenseTracker.js";
 
 export default function App() {
   return (
