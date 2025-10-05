@@ -65,6 +65,8 @@ export default function App() {
 
       {/* Expense Tracker Section */}
       <expenseTracker />
+      
+        
 
       {/* Chatbot Demo Section */}
       <section id="chatbot" className="py-20 bg-blue-50">
